@@ -1,6 +1,6 @@
 <?php
 
-    require("/home/krisliiv/config.php");
+    require("../../../config.php");
 
     session_start();
 
